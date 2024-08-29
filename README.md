@@ -1,0 +1,1 @@
+# Automated-Detection-Of-Malarial-Parasite-From-Microscopic-Images-Of-Blood-Smears
